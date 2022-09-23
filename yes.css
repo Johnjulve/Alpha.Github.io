@@ -1,0 +1,20 @@
+
+body{
+    background: lightpink;
+}
+
+.kilig2 img{
+    width: 200px;
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.kilig{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap:3em;
+}
